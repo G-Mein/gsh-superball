@@ -1,0 +1,11 @@
+.idea/
+.git/
+Temp/
+Library/PackageCache/
+Library/PlayerDataCache/
+Library/ShaderCache/
+Library/StateCache/
+Library/SplashScreenCache/
+Library/TempArtifacts/
+Library/metadata/
+Library/Artifacts/
